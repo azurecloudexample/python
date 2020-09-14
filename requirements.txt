@@ -1,2 +1,2 @@
 django==2.2.10
-wheelHouse/mysqlclient-1.4.6-cp27-cp27m-win_amd64.whl
+mysqlclient==1.4.6
