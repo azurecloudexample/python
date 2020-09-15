@@ -85,9 +85,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'mysqldatabase16664',
-        'USER':'mysqldbuser@mywebapp11-mysqldbserver',
+        'USER':'mysqldbuser@webappdjango-mysqldbserver',
         'PASSWORD':'Djangoapp@123',
-        'HOST':'mywebapp11-mysqldbserver.mysql.database.azure.com',
+        'HOST':'webappdjango-mysqldbserver.mysql.database.azure.com',
         'PORT':'3306',
     }
 }
