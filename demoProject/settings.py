@@ -84,10 +84,10 @@ WSGI_APPLICATION = 'demoProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'mysqldatabase16664',
-        'USER':'mysqldbuser@webappdjango-mysqldbserver',
-        'PASSWORD':'Djangoapp@123',
-        'HOST':'webappdjango-mysqldbserver.mysql.database.azure.com',
+        'NAME': 'mysqldatabase5561',
+        'USER':'mysqldbuser@djangoapptest17-mysqldbserver',
+        'PASSWORD':'django1720.',
+        'HOST':'djangoapptest17-mysqldbserver.mysql.database.azure.com',
         'PORT':'3306',
     }
 }
