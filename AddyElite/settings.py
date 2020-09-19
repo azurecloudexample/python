@@ -26,7 +26,7 @@ SECRET_KEY = '(b^1pwj^oz(2@b_um)lm)s=lwgm)12)bsikx=naf82^)q+2=^7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://webappdjango19.azurewebsites.net/']
 
 
 # Application definition
